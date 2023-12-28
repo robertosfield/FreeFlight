@@ -1,2 +1,2 @@
 # FreeFlight
-Hub for sharing knowledge and developing of light-weight soaring and powered aircraft 
+Hub for sharing knowledge and development of light-weight soaring and powered aircraft 
