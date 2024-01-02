@@ -20,6 +20,7 @@ The designs and software may be used for commericial prodicts, free of charge, b
 * Instrument development
 * Engineering related software development
 * Visual simulation & training software development
+* Helmet/head mounted instrument/augement reality systems - vario, altimet, navigation, communication, trackers, black box through to artifical horizons. 
 * Indvidual aircraft projects:
   - hang glider(s)
   - sub 70kg powered hang gliders - trike
