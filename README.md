@@ -7,9 +7,9 @@ This project is intended primarily for engineers developing new personal aircraf
 
 Following the approach of open source software development this FreeFLight initialiive adopts both the open licensing of hardware desgins and software, as well as the community based approach of freely sharing knowledges, ideas and designs.  
 
-As is standard woth open source software licensing the sharing of knowledge, ideas and designs is done on the basis that no liability is conferred 
+As is standard with open source software licensing the sharing of knowledge, ideas and designs is done on the basis that no liability is conferred 
 
-The designs and software may be used for commericial prodicts, free of charge, but on use of designs and software entities may not pursue or enforce patente relating to these designs or software.
+The designs and software may be used for commericial products, free of charge, but on use of designs and software provided may not pursue or enforce patente relating to these designs or software.
 
 ### Example sub-projects that could be hosted under the Free-Flight project
 
