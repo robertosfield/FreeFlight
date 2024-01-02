@@ -9,4 +9,19 @@ As is standard woth open source software licensing the sharing of knowledge, ide
 
 The designs and software may be used for commericial prodicts, free of charge, but on use of designs and software entities may not pursue or enforce patente relating to these designs or software.
 
-## Archivw of historical designs and knowledge
+### Example sub-projects that could be hosted under the Free-Flight project
+
+* Currating of useful 3rd party resources on aerodynamics, structures, control and propulsion systems
+* Airworthiness - detailing exisiting airworthiness testing and proposing improvments and new schemes
+* Archive of historical designs
+* Harnesss development
+* Instrument development
+* Engineering related software development
+* Visual simulation & training software development
+* Indvidual aircraft projects:
+  - hang glider(s)
+  - sub 70kg powered hang gliders - trike
+  - sub 70kg powered hang gliders - foot launched
+  - electrical motor and batteries systems
+  - eSTOL personal/cargo aircraft
+  - eVTOL personal/cargo aircraft
