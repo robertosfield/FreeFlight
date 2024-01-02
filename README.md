@@ -1,7 +1,7 @@
 # FreeFlight
 Hub for freely sharing knowledge and development of light-weight soaring and powered aircraft, eqiupmnent and software.
 
-This project is intended primarily for engineers developing new personal aircraft, related equiptment and software. However, the tasks involved covers a wide range of skills, these skills needn't be picked up just in degreee courses, many hobbiest can build up knowledge and skills beyond - it is expected that those that contribute to and use these resources will come from a wide rang of backgrounds and live right across the world.  The uniting passionn will be for achiving safe personal flight leveraging shared knowledge, latest designs and taking avanntage of modern materials and systems that are now available to us.
+This project is intended primarily for engineers, both professional and enthusiasts, developing new personal aircraft, related equiptment and software. The uniting passionn will be for achieving safe personal flight leveraging shared knowledge, latest designs and taking avanntage of modern materials and systems that are now available to us.
 
 ## Open Lincesing of articles, designs and software
 
