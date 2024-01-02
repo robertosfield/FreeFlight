@@ -1,7 +1,9 @@
 # FreeFlight
-Hub for freely sharing knowledge and development of light-weight soaring and powered aircraft, eqiupmnent and software.
+Hub for freely sharing knowledge and development of light-weight soaring and powered aircraft, associated equipment and software.
 
 This project is intended primarily for engineers, both professional and enthusiasts, developing new personal aircraft, related equiptment and software. The uniting passionn will be for achieving safe personal flight leveraging shared knowledge, latest designs and taking avanntage of modern materials and systems that are now available to us.
+
+This project was initiated in January 2024 by [Robert Osfield](People.md#RobertOsfield) to help move forward the state of art in personal flight.
 
 ## Open Lincesing of articles, designs and software
 
